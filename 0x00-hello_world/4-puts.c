@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point
+ * main - A program that prints a line with puts funtion
  *
  * Return: Alawys 0 (success)
  */
