@@ -1,14 +1,12 @@
-#includy <stdio.h>
+#include <stdio.h>
 
 /**
- * mine - Entry point
+ * main - Entry point
  *
- * Description: A C program that with printf function.
- *
- * Return: Alwaes 0 (success)
-*/
+ * Return: Always 0 (Success)
+ */
+int main(void)
 
-int mine(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
